@@ -14,16 +14,29 @@
         "date": [
             {
                 "startDate":"2005,04,10",
-                "endDate":"2012,05,01",
+                "endDate":"2005,05,01",
                 "headline":"Headline Goes Here",
                 "text":"<p>Body text goes here, some HTML is OK</p>",
                 "asset":
                 {
-                    "media":"http://twitter.com/ArjunaSoriano/status/164181156147900416",
+                    "media":"https://lh4.googleusercontent.com/-ZnhdqSMc6wM/SgNcVJyEOKI/AAAAAAAADJg/7Jlvd4KyHqY/s720/P3190336.JPG",
+                    "credit":"Credit Name Goes Here",
+                    "caption":"Caption text goes here"
+                }
+            },
+            {
+                "startDate":"2006,04,10",
+                "endDate":"2006,05,01",
+                "headline":"Headline Goes Here",
+                "text":"<p>Body text goes here, some HTML is OK</p>",
+                "asset":
+                {
+                    "media":"https://lh4.googleusercontent.com/-o2JZGLcORrA/SgNcYRNb4gI/AAAAAAAADJk/Xvw9zkk-deg/s576/P3190369.JPG",
                     "credit":"Credit Name Goes Here",
                     "caption":"Caption text goes here"
                 }
             }
+
         ]
     }
 }
