@@ -1,0 +1,29 @@
+{
+    "timeline":
+    {
+        "headline":"Spring camps history",
+        "type":"default",
+        "startDate":"1888",
+        "text":"<p>Some facts, photos, jokes, and history quotes...</p>",
+        "asset":
+        {
+            "media":"https://lh6.googleusercontent.com/-BcWFIQKJd80/SgNcRUKxaWI/AAAAAAAADJc/CYMHjvIU63c/s720/P3160312.JPG",
+            "credit":"2nd jewish camp, as always - some technical problems, must be covered by new jokes",
+            "caption":"jokes"
+        },
+        "date": [
+            {
+                "startDate":"2005,04,10",
+                "endDate":"2012,05,01",
+                "headline":"Headline Goes Here",
+                "text":"<p>Body text goes here, some HTML is OK</p>",
+                "asset":
+                {
+                    "media":"http://twitter.com/ArjunaSoriano/status/164181156147900416",
+                    "credit":"Credit Name Goes Here",
+                    "caption":"Caption text goes here"
+                }
+            }
+        ]
+    }
+}
